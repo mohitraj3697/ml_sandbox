@@ -1,6 +1,7 @@
 ml/
 venv/
 env/
+test/
 
 __pycache__/
 *.pyc
